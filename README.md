@@ -1,9 +1,9 @@
 # CI/CD Demo Application
 
-![CI/CD Pipeline]
+[CI/CD Pipeline]
 (https://github.com/awonriaz/cicd-demo-app/workflows/CI/CD%20Pipeline/badge.svg)
 
-![Pull Request Validation]
+[Pull Request Validation]
 (https://github.com/awonriaz/cicd-demo-app/workflows/Pull%20Request%20Validation/badge.svg)
 
 This is a simple web application demonstrating CI/CD pipelines with GitHub Actions.
